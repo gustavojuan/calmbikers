@@ -1,0 +1,25 @@
+{
+  "name": "calmbikers",
+  "version": "0.0.1",
+  "description": "Calmbikers, comunidad de cicloturistas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Calmbikers",
+    "javascript"
+  ],
+  "author": "Gustavo Juan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "materialize-css": "^0.98.0",
+    "pug": "^2.0.0-beta11"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
