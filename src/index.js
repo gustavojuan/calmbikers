@@ -1,0 +1,1 @@
+alert('testing GULP + BROWSERIFY + BABEL + VINYL');
